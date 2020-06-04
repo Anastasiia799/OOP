@@ -1,0 +1,94 @@
+C:\Users\n9779\Desktop\ооп новое\NoDbNoMigr\NoDbNoMigr\RPTSobj.DesktopClient\bin\Debug\netcoreapp3.1\TRASH.DesktopClient.exe
+C:\Users\n9779\Desktop\ооп новое\NoDbNoMigr\NoDbNoMigr\RPTSobj.DesktopClient\bin\Debug\netcoreapp3.1\TRASH.DesktopClient.deps.json
+C:\Users\n9779\Desktop\ооп новое\NoDbNoMigr\NoDbNoMigr\RPTSobj.DesktopClient\bin\Debug\netcoreapp3.1\TRASH.DesktopClient.runtimeconfig.json
+C:\Users\n9779\Desktop\ооп новое\NoDbNoMigr\NoDbNoMigr\RPTSobj.DesktopClient\bin\Debug\netcoreapp3.1\TRASH.DesktopClient.runtimeconfig.dev.json
+C:\Users\n9779\Desktop\ооп новое\NoDbNoMigr\NoDbNoMigr\RPTSobj.DesktopClient\bin\Debug\netcoreapp3.1\TRASH.DesktopClient.dll
+C:\Users\n9779\Desktop\ооп новое\NoDbNoMigr\NoDbNoMigr\RPTSobj.DesktopClient\bin\Debug\netcoreapp3.1\TRASH.DesktopClient.pdb
+C:\Users\n9779\Desktop\ооп новое\NoDbNoMigr\NoDbNoMigr\RPTSobj.DesktopClient\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\n9779\Desktop\ооп новое\NoDbNoMigr\NoDbNoMigr\RPTSobj.DesktopClient\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\n9779\Desktop\ооп новое\NoDbNoMigr\NoDbNoMigr\RPTSobj.DesktopClient\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\n9779\Desktop\ооп новое\NoDbNoMigr\NoDbNoMigr\RPTSobj.DesktopClient\bin\Debug\netcoreapp3.1\TRASH.GeneralLogic.dll
+C:\Users\n9779\Desktop\ооп новое\NoDbNoMigr\NoDbNoMigr\RPTSobj.DesktopClient\bin\Debug\netcoreapp3.1\TRASH.GeneralLogic.pdb
+C:\Users\n9779\Desktop\ооп новое\NoDbNoMigr\NoDbNoMigr\RPTSobj.DesktopClient\obj\Debug\netcoreapp3.1\TRASH.DesktopClient.csprojAssemblyReference.cache
+C:\Users\n9779\Desktop\ооп новое\NoDbNoMigr\NoDbNoMigr\RPTSobj.DesktopClient\obj\Debug\netcoreapp3.1\InfrastructureServices\Views\MainWindow.g.cs
+C:\Users\n9779\Desktop\ооп новое\NoDbNoMigr\NoDbNoMigr\RPTSobj.DesktopClient\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\n9779\Desktop\ооп новое\NoDbNoMigr\NoDbNoMigr\RPTSobj.DesktopClient\obj\Debug\netcoreapp3.1\TRASH.DesktopClient_MarkupCompile.cache
+C:\Users\n9779\Desktop\ооп новое\NoDbNoMigr\NoDbNoMigr\RPTSobj.DesktopClient\obj\Debug\netcoreapp3.1\TRASH.DesktopClient_MarkupCompile.lref
+C:\Users\n9779\Desktop\ооп новое\NoDbNoMigr\NoDbNoMigr\RPTSobj.DesktopClient\obj\Debug\netcoreapp3.1\InfrastructureServices\Views\MainWindow.baml
+C:\Users\n9779\Desktop\ооп новое\NoDbNoMigr\NoDbNoMigr\RPTSobj.DesktopClient\obj\Debug\netcoreapp3.1\TRASH.DesktopClient.g.resources
+C:\Users\n9779\Desktop\ооп новое\NoDbNoMigr\NoDbNoMigr\RPTSobj.DesktopClient\obj\Debug\netcoreapp3.1\TRASH.DesktopClient.AssemblyInfoInputs.cache
+C:\Users\n9779\Desktop\ооп новое\NoDbNoMigr\NoDbNoMigr\RPTSobj.DesktopClient\obj\Debug\netcoreapp3.1\TRASH.DesktopClient.AssemblyInfo.cs
+C:\Users\n9779\Desktop\ооп новое\NoDbNoMigr\NoDbNoMigr\RPTSobj.DesktopClient\obj\Debug\netcoreapp3.1\TRASH.DesktopClient.csproj.CopyComplete
+C:\Users\n9779\Desktop\ооп новое\NoDbNoMigr\NoDbNoMigr\RPTSobj.DesktopClient\obj\Debug\netcoreapp3.1\TRASH.DesktopClient.dll
+C:\Users\n9779\Desktop\ооп новое\NoDbNoMigr\NoDbNoMigr\RPTSobj.DesktopClient\obj\Debug\netcoreapp3.1\TRASH.DesktopClient.pdb
+C:\Users\n9779\Desktop\ооп новое\TRASH_LAB\TRASH_LAB\TRASH.DesktopClient\bin\Debug\netcoreapp3.1\TRASH.DesktopClient.exe
+C:\Users\n9779\Desktop\ооп новое\TRASH_LAB\TRASH_LAB\TRASH.DesktopClient\bin\Debug\netcoreapp3.1\TRASH.DesktopClient.deps.json
+C:\Users\n9779\Desktop\ооп новое\TRASH_LAB\TRASH_LAB\TRASH.DesktopClient\bin\Debug\netcoreapp3.1\TRASH.DesktopClient.runtimeconfig.json
+C:\Users\n9779\Desktop\ооп новое\TRASH_LAB\TRASH_LAB\TRASH.DesktopClient\bin\Debug\netcoreapp3.1\TRASH.DesktopClient.runtimeconfig.dev.json
+C:\Users\n9779\Desktop\ооп новое\TRASH_LAB\TRASH_LAB\TRASH.DesktopClient\bin\Debug\netcoreapp3.1\TRASH.DesktopClient.dll
+C:\Users\n9779\Desktop\ооп новое\TRASH_LAB\TRASH_LAB\TRASH.DesktopClient\bin\Debug\netcoreapp3.1\TRASH.DesktopClient.pdb
+C:\Users\n9779\Desktop\ооп новое\TRASH_LAB\TRASH_LAB\TRASH.DesktopClient\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\n9779\Desktop\ооп новое\TRASH_LAB\TRASH_LAB\TRASH.DesktopClient\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\n9779\Desktop\ооп новое\TRASH_LAB\TRASH_LAB\TRASH.DesktopClient\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\n9779\Desktop\ооп новое\TRASH_LAB\TRASH_LAB\TRASH.DesktopClient\bin\Debug\netcoreapp3.1\TRASH.GeneralLogic.dll
+C:\Users\n9779\Desktop\ооп новое\TRASH_LAB\TRASH_LAB\TRASH.DesktopClient\bin\Debug\netcoreapp3.1\TRASH.GeneralLogic.pdb
+C:\Users\n9779\Desktop\ооп новое\TRASH_LAB\TRASH_LAB\TRASH.DesktopClient\obj\Debug\netcoreapp3.1\InfrastructureServices\Views\MainWindow.g.cs
+C:\Users\n9779\Desktop\ооп новое\TRASH_LAB\TRASH_LAB\TRASH.DesktopClient\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\n9779\Desktop\ооп новое\TRASH_LAB\TRASH_LAB\TRASH.DesktopClient\obj\Debug\netcoreapp3.1\TRASH.DesktopClient_MarkupCompile.cache
+C:\Users\n9779\Desktop\ооп новое\TRASH_LAB\TRASH_LAB\TRASH.DesktopClient\obj\Debug\netcoreapp3.1\TRASH.DesktopClient_MarkupCompile.lref
+C:\Users\n9779\Desktop\ооп новое\TRASH_LAB\TRASH_LAB\TRASH.DesktopClient\obj\Debug\netcoreapp3.1\InfrastructureServices\Views\MainWindow.baml
+C:\Users\n9779\Desktop\ооп новое\TRASH_LAB\TRASH_LAB\TRASH.DesktopClient\obj\Debug\netcoreapp3.1\TRASH.DesktopClient.g.resources
+C:\Users\n9779\Desktop\ооп новое\TRASH_LAB\TRASH_LAB\TRASH.DesktopClient\obj\Debug\netcoreapp3.1\TRASH.DesktopClient.AssemblyInfoInputs.cache
+C:\Users\n9779\Desktop\ооп новое\TRASH_LAB\TRASH_LAB\TRASH.DesktopClient\obj\Debug\netcoreapp3.1\TRASH.DesktopClient.AssemblyInfo.cs
+C:\Users\n9779\Desktop\ооп новое\TRASH_LAB\TRASH_LAB\TRASH.DesktopClient\obj\Debug\netcoreapp3.1\TRASH.DesktopClient.csproj.CopyComplete
+C:\Users\n9779\Desktop\ооп новое\TRASH_LAB\TRASH_LAB\TRASH.DesktopClient\obj\Debug\netcoreapp3.1\TRASH.DesktopClient.dll
+C:\Users\n9779\Desktop\ооп новое\TRASH_LAB\TRASH_LAB\TRASH.DesktopClient\obj\Debug\netcoreapp3.1\TRASH.DesktopClient.pdb
+C:\Users\n9779\Desktop\ооп новое\TRASH_LAB\TRASH_LAB\TRASH.DesktopClient\obj\Debug\netcoreapp3.1\TRASH.DesktopClient.csprojAssemblyReference.cache
+C:\Users\User\Downloads\TRASH_LAB\TRASH_LAB\TRASH_LAB\TRASH.DesktopClient\bin\Debug\netcoreapp3.1\TRASH.DesktopClient.exe
+C:\Users\User\Downloads\TRASH_LAB\TRASH_LAB\TRASH_LAB\TRASH.DesktopClient\bin\Debug\netcoreapp3.1\TRASH.DesktopClient.deps.json
+C:\Users\User\Downloads\TRASH_LAB\TRASH_LAB\TRASH_LAB\TRASH.DesktopClient\bin\Debug\netcoreapp3.1\TRASH.DesktopClient.runtimeconfig.json
+C:\Users\User\Downloads\TRASH_LAB\TRASH_LAB\TRASH_LAB\TRASH.DesktopClient\bin\Debug\netcoreapp3.1\TRASH.DesktopClient.runtimeconfig.dev.json
+C:\Users\User\Downloads\TRASH_LAB\TRASH_LAB\TRASH_LAB\TRASH.DesktopClient\bin\Debug\netcoreapp3.1\TRASH.DesktopClient.dll
+C:\Users\User\Downloads\TRASH_LAB\TRASH_LAB\TRASH_LAB\TRASH.DesktopClient\bin\Debug\netcoreapp3.1\TRASH.DesktopClient.pdb
+C:\Users\User\Downloads\TRASH_LAB\TRASH_LAB\TRASH_LAB\TRASH.DesktopClient\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Downloads\TRASH_LAB\TRASH_LAB\TRASH_LAB\TRASH.DesktopClient\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Downloads\TRASH_LAB\TRASH_LAB\TRASH_LAB\TRASH.DesktopClient\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\User\Downloads\TRASH_LAB\TRASH_LAB\TRASH_LAB\TRASH.DesktopClient\bin\Debug\netcoreapp3.1\TRASH.GeneralLogic.dll
+C:\Users\User\Downloads\TRASH_LAB\TRASH_LAB\TRASH_LAB\TRASH.DesktopClient\bin\Debug\netcoreapp3.1\TRASH.GeneralLogic.pdb
+C:\Users\User\Downloads\TRASH_LAB\TRASH_LAB\TRASH_LAB\TRASH.DesktopClient\obj\Debug\netcoreapp3.1\InfrastructureServices\Views\MainWindow.g.cs
+C:\Users\User\Downloads\TRASH_LAB\TRASH_LAB\TRASH_LAB\TRASH.DesktopClient\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\User\Downloads\TRASH_LAB\TRASH_LAB\TRASH_LAB\TRASH.DesktopClient\obj\Debug\netcoreapp3.1\TRASH.DesktopClient_MarkupCompile.cache
+C:\Users\User\Downloads\TRASH_LAB\TRASH_LAB\TRASH_LAB\TRASH.DesktopClient\obj\Debug\netcoreapp3.1\TRASH.DesktopClient_MarkupCompile.lref
+C:\Users\User\Downloads\TRASH_LAB\TRASH_LAB\TRASH_LAB\TRASH.DesktopClient\obj\Debug\netcoreapp3.1\InfrastructureServices\Views\MainWindow.baml
+C:\Users\User\Downloads\TRASH_LAB\TRASH_LAB\TRASH_LAB\TRASH.DesktopClient\obj\Debug\netcoreapp3.1\TRASH.DesktopClient.g.resources
+C:\Users\User\Downloads\TRASH_LAB\TRASH_LAB\TRASH_LAB\TRASH.DesktopClient\obj\Debug\netcoreapp3.1\TRASH.DesktopClient.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\TRASH_LAB\TRASH_LAB\TRASH_LAB\TRASH.DesktopClient\obj\Debug\netcoreapp3.1\TRASH.DesktopClient.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\TRASH_LAB\TRASH_LAB\TRASH_LAB\TRASH.DesktopClient\obj\Debug\netcoreapp3.1\TRASH.DesktopClient.AssemblyInfo.cs
+C:\Users\User\Downloads\TRASH_LAB\TRASH_LAB\TRASH_LAB\TRASH.DesktopClient\obj\Debug\netcoreapp3.1\TRASH.DesktopClient.csproj.CopyComplete
+C:\Users\User\Downloads\TRASH_LAB\TRASH_LAB\TRASH_LAB\TRASH.DesktopClient\obj\Debug\netcoreapp3.1\TRASH.DesktopClient.dll
+C:\Users\User\Downloads\TRASH_LAB\TRASH_LAB\TRASH_LAB\TRASH.DesktopClient\obj\Debug\netcoreapp3.1\TRASH.DesktopClient.pdb
+C:\Users\User\Downloads\TRASH_LAB\TRASH_LAB\TRASH_LAB\TRASH.DesktopClient\obj\Debug\netcoreapp3.1\TRASH.DesktopClient.genruntimeconfig.cache
+C:\Users\User\Downloads\TRASH_LAB\TRASH_LAB\TRASH_LAB\TRASH.DesktopClient\obj\Debug\netcoreapp3.1\TRASH.DesktopClient.csprojAssemblyReference.cache
+C:\Users\n9779\Desktop\ооп 1-7\TRASH_LABx\TRASH_LAB\TRASH_LAB\TRASH_LAB\TRASH.DesktopClient\bin\Debug\netcoreapp3.1\TRASH.DesktopClient.exe
+C:\Users\n9779\Desktop\ооп 1-7\TRASH_LABx\TRASH_LAB\TRASH_LAB\TRASH_LAB\TRASH.DesktopClient\bin\Debug\netcoreapp3.1\TRASH.DesktopClient.deps.json
+C:\Users\n9779\Desktop\ооп 1-7\TRASH_LABx\TRASH_LAB\TRASH_LAB\TRASH_LAB\TRASH.DesktopClient\bin\Debug\netcoreapp3.1\TRASH.DesktopClient.runtimeconfig.json
+C:\Users\n9779\Desktop\ооп 1-7\TRASH_LABx\TRASH_LAB\TRASH_LAB\TRASH_LAB\TRASH.DesktopClient\bin\Debug\netcoreapp3.1\TRASH.DesktopClient.runtimeconfig.dev.json
+C:\Users\n9779\Desktop\ооп 1-7\TRASH_LABx\TRASH_LAB\TRASH_LAB\TRASH_LAB\TRASH.DesktopClient\bin\Debug\netcoreapp3.1\TRASH.DesktopClient.dll
+C:\Users\n9779\Desktop\ооп 1-7\TRASH_LABx\TRASH_LAB\TRASH_LAB\TRASH_LAB\TRASH.DesktopClient\bin\Debug\netcoreapp3.1\TRASH.DesktopClient.pdb
+C:\Users\n9779\Desktop\ооп 1-7\TRASH_LABx\TRASH_LAB\TRASH_LAB\TRASH_LAB\TRASH.DesktopClient\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\n9779\Desktop\ооп 1-7\TRASH_LABx\TRASH_LAB\TRASH_LAB\TRASH_LAB\TRASH.DesktopClient\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\n9779\Desktop\ооп 1-7\TRASH_LABx\TRASH_LAB\TRASH_LAB\TRASH_LAB\TRASH.DesktopClient\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\n9779\Desktop\ооп 1-7\TRASH_LABx\TRASH_LAB\TRASH_LAB\TRASH_LAB\TRASH.DesktopClient\bin\Debug\netcoreapp3.1\TRASH.GeneralLogic.dll
+C:\Users\n9779\Desktop\ооп 1-7\TRASH_LABx\TRASH_LAB\TRASH_LAB\TRASH_LAB\TRASH.DesktopClient\bin\Debug\netcoreapp3.1\TRASH.GeneralLogic.pdb
+C:\Users\n9779\Desktop\ооп 1-7\TRASH_LABx\TRASH_LAB\TRASH_LAB\TRASH_LAB\TRASH.DesktopClient\obj\Debug\netcoreapp3.1\TRASH.DesktopClient.csprojAssemblyReference.cache
+C:\Users\n9779\Desktop\ооп 1-7\TRASH_LABx\TRASH_LAB\TRASH_LAB\TRASH_LAB\TRASH.DesktopClient\obj\Debug\netcoreapp3.1\InfrastructureServices\Views\MainWindow.g.cs
+C:\Users\n9779\Desktop\ооп 1-7\TRASH_LABx\TRASH_LAB\TRASH_LAB\TRASH_LAB\TRASH.DesktopClient\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\n9779\Desktop\ооп 1-7\TRASH_LABx\TRASH_LAB\TRASH_LAB\TRASH_LAB\TRASH.DesktopClient\obj\Debug\netcoreapp3.1\TRASH.DesktopClient_MarkupCompile.cache
+C:\Users\n9779\Desktop\ооп 1-7\TRASH_LABx\TRASH_LAB\TRASH_LAB\TRASH_LAB\TRASH.DesktopClient\obj\Debug\netcoreapp3.1\TRASH.DesktopClient_MarkupCompile.lref
+C:\Users\n9779\Desktop\ооп 1-7\TRASH_LABx\TRASH_LAB\TRASH_LAB\TRASH_LAB\TRASH.DesktopClient\obj\Debug\netcoreapp3.1\InfrastructureServices\Views\MainWindow.baml
+C:\Users\n9779\Desktop\ооп 1-7\TRASH_LABx\TRASH_LAB\TRASH_LAB\TRASH_LAB\TRASH.DesktopClient\obj\Debug\netcoreapp3.1\TRASH.DesktopClient.g.resources
+C:\Users\n9779\Desktop\ооп 1-7\TRASH_LABx\TRASH_LAB\TRASH_LAB\TRASH_LAB\TRASH.DesktopClient\obj\Debug\netcoreapp3.1\TRASH.DesktopClient.AssemblyInfoInputs.cache
+C:\Users\n9779\Desktop\ооп 1-7\TRASH_LABx\TRASH_LAB\TRASH_LAB\TRASH_LAB\TRASH.DesktopClient\obj\Debug\netcoreapp3.1\TRASH.DesktopClient.AssemblyInfo.cs
+C:\Users\n9779\Desktop\ооп 1-7\TRASH_LABx\TRASH_LAB\TRASH_LAB\TRASH_LAB\TRASH.DesktopClient\obj\Debug\netcoreapp3.1\TRASH.DesktopClient.csproj.CopyComplete
+C:\Users\n9779\Desktop\ооп 1-7\TRASH_LABx\TRASH_LAB\TRASH_LAB\TRASH_LAB\TRASH.DesktopClient\obj\Debug\netcoreapp3.1\TRASH.DesktopClient.dll
+C:\Users\n9779\Desktop\ооп 1-7\TRASH_LABx\TRASH_LAB\TRASH_LAB\TRASH_LAB\TRASH.DesktopClient\obj\Debug\netcoreapp3.1\TRASH.DesktopClient.pdb
