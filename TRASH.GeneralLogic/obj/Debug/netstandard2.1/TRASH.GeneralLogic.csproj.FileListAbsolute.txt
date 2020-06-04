@@ -1,0 +1,41 @@
+C:\Users\n9779\Desktop\ооп новое\NoDbNoMigr\NoDbNoMigr\RPTSobj.GeneralLogic\bin\Debug\netstandard2.1\TRASH.GeneralLogic.deps.json
+C:\Users\n9779\Desktop\ооп новое\NoDbNoMigr\NoDbNoMigr\RPTSobj.GeneralLogic\bin\Debug\netstandard2.1\TRASH.GeneralLogic.dll
+C:\Users\n9779\Desktop\ооп новое\NoDbNoMigr\NoDbNoMigr\RPTSobj.GeneralLogic\bin\Debug\netstandard2.1\TRASH.GeneralLogic.pdb
+C:\Users\n9779\Desktop\ооп новое\NoDbNoMigr\NoDbNoMigr\RPTSobj.GeneralLogic\obj\Debug\netstandard2.1\TRASH.GeneralLogic.csprojAssemblyReference.cache
+C:\Users\n9779\Desktop\ооп новое\NoDbNoMigr\NoDbNoMigr\RPTSobj.GeneralLogic\obj\Debug\netstandard2.1\TRASH.GeneralLogic.AssemblyInfoInputs.cache
+C:\Users\n9779\Desktop\ооп новое\NoDbNoMigr\NoDbNoMigr\RPTSobj.GeneralLogic\obj\Debug\netstandard2.1\TRASH.GeneralLogic.AssemblyInfo.cs
+C:\Users\n9779\Desktop\ооп новое\NoDbNoMigr\NoDbNoMigr\RPTSobj.GeneralLogic\obj\Debug\netstandard2.1\TRASH.GeneralLogic.dll
+C:\Users\n9779\Desktop\ооп новое\NoDbNoMigr\NoDbNoMigr\RPTSobj.GeneralLogic\obj\Debug\netstandard2.1\TRASH.GeneralLogic.pdb
+C:\Users\n9779\Desktop\ооп новое\TRASH_LAB\NoDbNoMigr\TRASH.GeneralLogic\bin\Debug\netstandard2.1\TRASH.GeneralLogic.deps.json
+C:\Users\n9779\Desktop\ооп новое\TRASH_LAB\NoDbNoMigr\TRASH.GeneralLogic\bin\Debug\netstandard2.1\TRASH.GeneralLogic.dll
+C:\Users\n9779\Desktop\ооп новое\TRASH_LAB\NoDbNoMigr\TRASH.GeneralLogic\bin\Debug\netstandard2.1\TRASH.GeneralLogic.pdb
+C:\Users\n9779\Desktop\ооп новое\TRASH_LAB\NoDbNoMigr\TRASH.GeneralLogic\obj\Debug\netstandard2.1\TRASH.GeneralLogic.csprojAssemblyReference.cache
+C:\Users\n9779\Desktop\ооп новое\TRASH_LAB\NoDbNoMigr\TRASH.GeneralLogic\obj\Debug\netstandard2.1\TRASH.GeneralLogic.AssemblyInfoInputs.cache
+C:\Users\n9779\Desktop\ооп новое\TRASH_LAB\NoDbNoMigr\TRASH.GeneralLogic\obj\Debug\netstandard2.1\TRASH.GeneralLogic.AssemblyInfo.cs
+C:\Users\n9779\Desktop\ооп новое\TRASH_LAB\NoDbNoMigr\TRASH.GeneralLogic\obj\Debug\netstandard2.1\TRASH.GeneralLogic.dll
+C:\Users\n9779\Desktop\ооп новое\TRASH_LAB\NoDbNoMigr\TRASH.GeneralLogic\obj\Debug\netstandard2.1\TRASH.GeneralLogic.pdb
+C:\Users\n9779\Desktop\ооп новое\TRASH_LAB\TRASH_LAB\TRASH.GeneralLogic\bin\Debug\netstandard2.1\TRASH.GeneralLogic.deps.json
+C:\Users\n9779\Desktop\ооп новое\TRASH_LAB\TRASH_LAB\TRASH.GeneralLogic\bin\Debug\netstandard2.1\TRASH.GeneralLogic.dll
+C:\Users\n9779\Desktop\ооп новое\TRASH_LAB\TRASH_LAB\TRASH.GeneralLogic\bin\Debug\netstandard2.1\TRASH.GeneralLogic.pdb
+C:\Users\n9779\Desktop\ооп новое\TRASH_LAB\TRASH_LAB\TRASH.GeneralLogic\obj\Debug\netstandard2.1\TRASH.GeneralLogic.csprojAssemblyReference.cache
+C:\Users\n9779\Desktop\ооп новое\TRASH_LAB\TRASH_LAB\TRASH.GeneralLogic\obj\Debug\netstandard2.1\TRASH.GeneralLogic.AssemblyInfoInputs.cache
+C:\Users\n9779\Desktop\ооп новое\TRASH_LAB\TRASH_LAB\TRASH.GeneralLogic\obj\Debug\netstandard2.1\TRASH.GeneralLogic.AssemblyInfo.cs
+C:\Users\n9779\Desktop\ооп новое\TRASH_LAB\TRASH_LAB\TRASH.GeneralLogic\obj\Debug\netstandard2.1\TRASH.GeneralLogic.dll
+C:\Users\n9779\Desktop\ооп новое\TRASH_LAB\TRASH_LAB\TRASH.GeneralLogic\obj\Debug\netstandard2.1\TRASH.GeneralLogic.pdb
+C:\Users\User\Downloads\TRASH_LAB\TRASH_LAB\TRASH_LAB\TRASH.GeneralLogic\bin\Debug\netstandard2.1\TRASH.GeneralLogic.deps.json
+C:\Users\User\Downloads\TRASH_LAB\TRASH_LAB\TRASH_LAB\TRASH.GeneralLogic\bin\Debug\netstandard2.1\TRASH.GeneralLogic.dll
+C:\Users\User\Downloads\TRASH_LAB\TRASH_LAB\TRASH_LAB\TRASH.GeneralLogic\bin\Debug\netstandard2.1\TRASH.GeneralLogic.pdb
+C:\Users\User\Downloads\TRASH_LAB\TRASH_LAB\TRASH_LAB\TRASH.GeneralLogic\obj\Debug\netstandard2.1\TRASH.GeneralLogic.csprojAssemblyReference.cache
+C:\Users\User\Downloads\TRASH_LAB\TRASH_LAB\TRASH_LAB\TRASH.GeneralLogic\obj\Debug\netstandard2.1\TRASH.GeneralLogic.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\TRASH_LAB\TRASH_LAB\TRASH_LAB\TRASH.GeneralLogic\obj\Debug\netstandard2.1\TRASH.GeneralLogic.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\TRASH_LAB\TRASH_LAB\TRASH_LAB\TRASH.GeneralLogic\obj\Debug\netstandard2.1\TRASH.GeneralLogic.AssemblyInfo.cs
+C:\Users\User\Downloads\TRASH_LAB\TRASH_LAB\TRASH_LAB\TRASH.GeneralLogic\obj\Debug\netstandard2.1\TRASH.GeneralLogic.dll
+C:\Users\User\Downloads\TRASH_LAB\TRASH_LAB\TRASH_LAB\TRASH.GeneralLogic\obj\Debug\netstandard2.1\TRASH.GeneralLogic.pdb
+C:\Users\n9779\Desktop\ооп 1-7\TRASH_LABx\TRASH_LAB\TRASH_LAB\TRASH_LAB\TRASH.GeneralLogic\bin\Debug\netstandard2.1\TRASH.GeneralLogic.deps.json
+C:\Users\n9779\Desktop\ооп 1-7\TRASH_LABx\TRASH_LAB\TRASH_LAB\TRASH_LAB\TRASH.GeneralLogic\bin\Debug\netstandard2.1\TRASH.GeneralLogic.dll
+C:\Users\n9779\Desktop\ооп 1-7\TRASH_LABx\TRASH_LAB\TRASH_LAB\TRASH_LAB\TRASH.GeneralLogic\bin\Debug\netstandard2.1\TRASH.GeneralLogic.pdb
+C:\Users\n9779\Desktop\ооп 1-7\TRASH_LABx\TRASH_LAB\TRASH_LAB\TRASH_LAB\TRASH.GeneralLogic\obj\Debug\netstandard2.1\TRASH.GeneralLogic.csprojAssemblyReference.cache
+C:\Users\n9779\Desktop\ооп 1-7\TRASH_LABx\TRASH_LAB\TRASH_LAB\TRASH_LAB\TRASH.GeneralLogic\obj\Debug\netstandard2.1\TRASH.GeneralLogic.AssemblyInfoInputs.cache
+C:\Users\n9779\Desktop\ооп 1-7\TRASH_LABx\TRASH_LAB\TRASH_LAB\TRASH_LAB\TRASH.GeneralLogic\obj\Debug\netstandard2.1\TRASH.GeneralLogic.AssemblyInfo.cs
+C:\Users\n9779\Desktop\ооп 1-7\TRASH_LABx\TRASH_LAB\TRASH_LAB\TRASH_LAB\TRASH.GeneralLogic\obj\Debug\netstandard2.1\TRASH.GeneralLogic.dll
+C:\Users\n9779\Desktop\ооп 1-7\TRASH_LABx\TRASH_LAB\TRASH_LAB\TRASH_LAB\TRASH.GeneralLogic\obj\Debug\netstandard2.1\TRASH.GeneralLogic.pdb
