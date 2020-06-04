@@ -1,0 +1,212 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\n9779\\Desktop\\ооп 1-7\\lab7\\TRASH.GeneralLogic.Tests\\TRASH.GeneralLogic.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\n9779\\Desktop\\ооп 1-7\\lab7\\TRASH.GeneralLogic.Tests\\TRASH.GeneralLogic.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\n9779\\Desktop\\ооп 1-7\\lab7\\TRASH.GeneralLogic.Tests\\TRASH.GeneralLogic.Tests.csproj",
+        "projectName": "TRASH.GeneralLogic.Tests",
+        "projectPath": "C:\\Users\\n9779\\Desktop\\ооп 1-7\\lab7\\TRASH.GeneralLogic.Tests\\TRASH.GeneralLogic.Tests.csproj",
+        "packagesPath": "C:\\Users\\n9779\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\n9779\\Desktop\\ооп 1-7\\lab7\\TRASH.GeneralLogic.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\n9779\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\n9779\\Desktop\\ооп 1-7\\lab7\\TRASH.WebService\\TRASH.WebService.csproj": {
+                "projectPath": "C:\\Users\\n9779\\Desktop\\ооп 1-7\\lab7\\TRASH.WebService\\TRASH.WebService.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\n9779\\Desktop\\ооп 1-7\\lab7\\TRASH.GeneralLogic\\TRASH.GeneralLogic.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\n9779\\Desktop\\ооп 1-7\\lab7\\TRASH.GeneralLogic\\TRASH.GeneralLogic.csproj",
+        "projectName": "TRASH.GeneralLogic",
+        "projectPath": "C:\\Users\\n9779\\Desktop\\ооп 1-7\\lab7\\TRASH.GeneralLogic\\TRASH.GeneralLogic.csproj",
+        "packagesPath": "C:\\Users\\n9779\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\n9779\\Desktop\\ооп 1-7\\lab7\\TRASH.GeneralLogic\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\n9779\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\n9779\\Desktop\\ооп 1-7\\lab7\\TRASH.WebService\\TRASH.WebService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\n9779\\Desktop\\ооп 1-7\\lab7\\TRASH.WebService\\TRASH.WebService.csproj",
+        "projectName": "TRASH.WebService",
+        "projectPath": "C:\\Users\\n9779\\Desktop\\ооп 1-7\\lab7\\TRASH.WebService\\TRASH.WebService.csproj",
+        "packagesPath": "C:\\Users\\n9779\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\n9779\\Desktop\\ооп 1-7\\lab7\\TRASH.WebService\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\n9779\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\n9779\\Desktop\\ооп 1-7\\lab7\\TRASH.GeneralLogic\\TRASH.GeneralLogic.csproj": {
+                "projectPath": "C:\\Users\\n9779\\Desktop\\ооп 1-7\\lab7\\TRASH.GeneralLogic\\TRASH.GeneralLogic.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

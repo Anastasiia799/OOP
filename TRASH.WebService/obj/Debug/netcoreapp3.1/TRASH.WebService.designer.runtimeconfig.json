@@ -1,0 +1,17 @@
+{
+  "runtimeOptions": {
+    "tfm": "netcoreapp3.1",
+    "framework": {
+      "name": "Microsoft.AspNetCore.App",
+      "version": "3.1.0"
+    },
+    "additionalProbingPaths": [
+      "C:\\Users\\n9779\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\n9779\\.nuget\\packages"
+    ],
+    "configProperties": {
+      "System.GC.Server": true,
+      "Microsoft.NETCore.DotNetHostPolicy.SetAppPaths": true
+    }
+  }
+}
